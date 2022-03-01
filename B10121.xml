@@ -1,0 +1,275 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A testimony and wholesome advice concerning marriage.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10121</idno>
+            <idno type="OCLC"> 80924276</idno>
+            <idno type="STC">Wing T807A</idno>
+            <idno type="STC">ESTC R221301</idno>
+            <idno type="EEBO-CITATION">80924276</idno>
+            <idno type="OCLC">ocm 80924276</idno>
+            <idno type="VID">192062</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B10121)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192062)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2899:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A testimony and wholesome advice concerning marriage.</title>
+                  <author>Seaton, Alexander.</author>
+                  <author>Edmundson, William, 1627-1712.</author>
+                  <author>Bingley, William, 1651-1715. Epistle of love and tender advice, to friends and brethren in America, or elsewhere.</author>
+                  <author>Whitehead, Anne, 1624-1686. Epistle for true love, unity, and order in the Church of Christ.</author>
+                  <author>Elson, Mary, 1623 or 4-1707. Epistle for true love, unity, and order in the Church of Christ</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.</publisher>
+                  <pubPlace>[Dublin? :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>P. [6] signed: W.E. [i.e. William Edmundson?].</note>
+                  <note>Signed at end: Given forth at the National Men and Womens Meetings, assembled together in Dublin the 10th day of the third month, 1680. Signed in behalf of the said meetings, by Alexander Set[...].</note>
+                  <note>Filmed with t.p.'s for: An epistle of love and tender advice, to friends and brethren in America, or elsewhere / by William Bingley. [London] : Printed by Andrew Sowle ..., 1649; and An epistle for true love, unity and order in the Church of Christ / by ... Anne Whitehead, Mary Elson. London : Printed and sold by Andrew Sowle ... [1677?].</note>
+                  <note>Imperfect: t.p. lacking; p. 8 torn with partial loss of signature.</note>
+                  <note>Reproduction of original in the Haverford College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marriage --  Early works to 1800.</term>
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <p>
+                     <pb facs="tcp:192062:1"/>
+                     <pb facs="tcp:192062:2" rendition="simple:additions"/>
+                     <pb facs="tcp:192062:2" rendition="simple:additions"/>
+AN Epiſtle of Love AND Tender Advice, TO <hi>Friends</hi> and <hi>Brethren</hi> IN AMERICA, Or elſewhere; To live in the Truth, that they may ſhew forth the Virtue and Effects of it in a Holy Life.</p>
+                  <p>
+                     <hi>By your Friend and Brother in the Truth, who Travels for</hi> Sion<hi>'s Proſperity,</hi>
+                  </p>
+                  <p>
+                     <hi>William Bingley.</hi>
+                  </p>
+                  <p>1 Pet. 5. 3. <hi>Being Enſamples to the Flock.</hi>
+                  </p>
+                  <p>Epheſ. 5. 1, 2. And <hi>Be ye therefore Followers of God, as dear Children, and walk in Love, as Chriſt alſo hath loved us.</hi>
+                  </p>
+                  <p>Printed by <hi>Andrew Sowle:</hi> And ſold at the <hi>Three-Keys</hi> in <hi>Nags-Head-Court</hi> in <hi>Grace-Church-Street,</hi> 1689.</p>
+                  <pb facs="tcp:192062:3"/>
+               </div>
+            </front>
+            <body>
+               <div type="testimony">
+                  <pb n="1" facs="tcp:192062:3" rendition="simple:additions"/>
+                  <head>A TESTIMONY And wholeſome Advice concerning MARRIAGE.</head>
+                  <p>MArriage is honourable in all, and the Bed undefiled, and it is Gods Ordinance, and is not to be forbidden, and whom God joins together no Man is to put aſunder; and this is the Marriage that hath a Bleſſing, that minds Gods Joining, and Gods Ordinance; and the people of God were to practice it in all Ages, and the Faithful did obſerve and do it: As <hi>Abraham,</hi> the Father and Pattern of the Faithful, charged his chief Servant to go to his own People, and take a Wife for his Son <hi>Iſaac;</hi> and ſaid, the Lord God of Heaven and Earth ſhall ſend his Angel before thee; and his Servant (at Gods appointment) took <hi>Rebekah,</hi> and <hi>Iſaac</hi> brought <hi>Rebekah</hi> to his Mothers Tent, and took her to Wife, <hi>Gen.</hi> 24. So here was Gods Ordinance and Gods Join<g ref="char:EOLhyphen"/>ing. And <hi>Iſaac</hi> did not go contrary to God and his Fathers mind to take a Wife of the Daughters of <hi>Canaan,</hi> nor had a Prieſt to marry them; and <hi>Iſaac</hi> was bleſſed of God, and he gave him <hi>Jacob</hi> and <hi>Eſau:</hi> And <hi>Eſau</hi> deſpiſed his Birth right, and married of the Daughters of the <hi>Hittites,</hi> which grieved his Father and his Mother, <hi>Gen.</hi> 26. 35. So <hi>Eſau</hi> went from Gods Joining, and grieved his Parents, and <hi>Rebekah</hi> ſaid to <hi>Iſaac,</hi> if <hi>Jacob</hi> take a Wife of the Daughters of the Land, ſuch as theſe be, what good will my Life do me? <hi>Gen.</hi> 24. 46.
+<pb n="2" facs="tcp:192062:4"/>
+So here you may ſee the great care of <hi>Rebekah</hi> to preſerve her Son from the Snare that <hi>Eſau</hi> was come into, in this of Join<g ref="char:EOLhyphen"/>ing in Marriage with other People; and <hi>Iſaac</hi> called his Son <hi>Jacob</hi> and charged him, and ſaid, thou ſhalt not take a Wife of the Daughters of <hi>Canaan,</hi> but ſhalt go to thy Mothers Kin<g ref="char:EOLhyphen"/>dred, and God Almighty bleſs thee and proſper thee, <hi>Gen.</hi> 28. And <hi>Jacob</hi> obeyed his Father and his Mother; and the Lord appeared to him in his Journey and bleſſed him, and ſaid I will greatly multiply thee, and will be with thee: And <hi>Jacob</hi> ſaid if God will bleſs me and proſper me in the way that I go, and bring me to my Fathers houſe in Peace, then ſhall the Lord be my God, <hi>verſ.</hi> 21. So here you may ſee <hi>Jacob</hi> minds the Lord, and obeyed his Parents in his chooſing a Wife; and the Lord bleſſed him abundantly. And the Sons of <hi>Jacob</hi> could not ſuffer their Siſter to marry with a Stranger though he was a great Prince. And the <hi>Jews</hi> which were the Off-ſpring of <hi>Abra<g ref="char:EOLhyphen"/>ham, Iſaac,</hi> and <hi>Jacob,</hi> were not to join in Marriage with other People; as it is written, thou ſhalt not take their Daughters to thy Sons, nor give thy Daughters to their Sons; for they will turn your Hearts from the Lord after other Gods, <hi>Deut.</hi> 7. 3. <hi>Joſ.</hi> 13. 12. So here you may ſee, according to Gods Ordinance, there is a power in Parents in giving their Daugh<g ref="char:EOLhyphen"/>ters in Marriage, and in taking Daughters to their Sons; they have a part in their Children to give and take in caſe of Marriage. And when the <hi>Jews</hi> did mix in Marriage with other People, they corrupted them, and drew them from God, and kindled his Anger againſt them, as you may ſee, <hi>Numb.</hi> 25. where the young men took the Daughters of <hi>Moab,</hi> which kindled Gods anger, and many of them died, and a great breach was made till <hi>Phinehas</hi> ſtood in the Gap, and ſtopped thoſe proceedings, and turned away Gods Wrath; and theſe went from Gods Ordinance and from Gods Joining, and went from the good example of their Fathers, <hi>Abraham, Iſaac</hi> and
+<pb n="3" facs="tcp:192062:4"/>
+                     <hi>Jacob.</hi> And you may ſee that <hi>Solomon</hi> a wiſe King, his ta<g ref="char:EOLhyphen"/>king of Strangers turned his Heart to worſhip Idols, for which the Lord rent the Kingdom from him, only left him a Lamp in <hi>Iſrael</hi> for <hi>David</hi> his Fathers ſake: And you may ſee in all the Paſſages of the <hi>Jews</hi> revolting from God, for the moſt part, the chief reaſon was their matching in Marriage with other People, as in <hi>Nehemiah</hi> and <hi>Ezra,</hi> where you may ſee the <hi>Jews</hi> had taken Strangers of the Daughters of <hi>Aſhdod,</hi> which grieved the Lord and his Servants <hi>Ezra</hi> and <hi>Nehemiah:</hi> So here you ſee they went from Gods Ordinance and Gods Joyning. And the Apoſtle ſaith to the Church, be not une<g ref="char:EOLhyphen"/>qually yoked, a Believer with an Unbeliever, he accounts it as Light and Darkneſs, as Chriſt and Belial, as the Temple of God and Idols, 2 <hi>Cor.</hi> 6. for Believers in the Light of Chriſt Jeſus are the Called of God, and the Seed of <hi>Abraham,</hi> and the Temple of God, and his Sons and Daughters, and are Heirs of the Promiſe in the New Covenant, and are <hi>Jews</hi> in Spirit, and have the Circumciſion of the Spirit made with<g ref="char:EOLhyphen"/>out Hands, and are under the Law of the New Covenant which God hath written in their Hearts; and ſuch cannot Join to give or take in Marriage, with any Sect or ſort of Perſons or People that believe not in the Light of Chriſt Je<g ref="char:EOLhyphen"/>ſus, with which he hath enlightned every Man that comes into the World; nor believe not in the Grace of God, but turn it into Wantonneſs; nor in the Law of the New Cove<g ref="char:EOLhyphen"/>nant which is written in the Heart according to Gods Pro<g ref="char:EOLhyphen"/>miſe: And do not worſhip God in Spirit, but in ſome form, without the Power of God; neither have received the Cir<g ref="char:EOLhyphen"/>cumciſion of the Spirit to circumciſe their Hearts and Ears, ſuch the Seed of <hi>Abraham</hi> muſt not Join with in Affinity of Marriage, nor take their Daughters to their Sons, nor give their Daughters to their Sons; for you ſee it is contrary to Gods Ordinance, and contrary to the Spirit of <hi>Abraham,</hi>
+                     <pb n="4" facs="tcp:192062:5"/>
+                     <hi>Iſaac</hi> and <hi>Jacob,</hi> which were great Fathers and Patterns; and all the true Believers in Chriſt Jeſus are to follow their ſteps in the New Covenant, and will charge their Sons and Daugh<g ref="char:EOLhyphen"/>ters that they joyn not in Marriage with any, but amongſt their own People, that are Worſhipers of God in Spirit, and Children of ſuch Believers as be of Faith and Society with them, in the Worſhip and Service of God; and ſuch Chil<g ref="char:EOLhyphen"/>dren as fear God, and are reverent and obedient to Parents, which all are obliged to by the Law of the firſt Covenant, and by the Law of Chriſt Jeſus, and by the Doctrine of the Apoſtles; I ſay ſuch Children will keep their Parents Charge as <hi>Iſaac</hi> and <hi>Jacob</hi> did, and not grieve and vex their Parents as <hi>Eſau</hi> did his Father and his Mother, in marrying with the Daughters of Strangers: for ſuch Parents as are of <hi>Iſaac</hi> and <hi>Rebekah</hi>'s Spirit are much concerned in this Caſe, and cannot but grieve when their Children joyn in Marriage with ſuch as are before mentioned, and give away their believing Parents part that they have in them, to the World; which makes Confuſion, and grieves God's good Spirit, and ſmites their Parents with Grief, and ſuch as ſmote Father and Mother in the time of the Law were to die, <hi>Exod.</hi> 21. 15. for Parents have a great Power and part in their Children, as in <hi>Numb.</hi> 30. 3, 4, 5. If a Daughter in her Fathers Houſe unmarried make a Vow or Promiſe, her Father hath power to break it or eſtab<g ref="char:EOLhyphen"/>liſh it: and you may ſee, 1 <hi>Sam.</hi> 2. 3. &amp; <hi>chap.</hi> old <hi>Eli</hi> did not uſe his Power to reſtrain his two Sons from their Wickedneſs, for which the Lord cut off the Arm of <hi>Eli,</hi> cut off his Fami<g ref="char:EOLhyphen"/>ly from the Prieſthood; and Believers are a Royal Prieſthood to offer to God ſpiritual Sacrifices. So they are to uſe their utmoſt Endeavours to reſtrain their Children from running into the World, which lies in Wickedneſs; or into their Fa<g ref="char:EOLhyphen"/>ſhions or Familiarity, which often doth great hurt, as <hi>Jacob</hi>'s Daughter, in viſiting the Daughters of the Land of <hi>Canaan,</hi>
+                     <pb facs="tcp:192062:5"/>
+was defiled: So Friends are to be careful to watch over their Children, for their preſervation from thoſe things which Youth is prone to fall into to their great hurt; for we were but a few at the firſt when God called and choſe us to be his People; and now there is a young Generation ſprung up of young Men and Women, many of them ſprung from the Loins of true Believers, and many of them runs into the Pride and Faſhions of the World, and take Wives and Husbands of the World, and go to the Teachers of the World to be mar<g ref="char:EOLhyphen"/>ried; and ſo go from Gods Ordinance and Gods Joining: And men of the World ſee that Friends are a thriving People in their outward Subſtance, which makes them ſeek after Friends Children to marry with them: And ſome Friends, when their Rebellious Children have ſo done, (through Indul<g ref="char:EOLhyphen"/>gence and Affection to their Children, more than the publick good) have given them Portions: And this encourageth the World to ſeek Friends Children in Marriage, and encourageth wanton Children to conſent to them, by which means a breach is made upon our Youth, to the wounding and grieving the Spirits of the Faithful that are <hi>Abrahams</hi> Children, and are of the ſame mind with <hi>Iſaac</hi> and <hi>Rebekah,</hi> and cannot give their Children in marriage to other People upon any account: But are willing to give their Children the ſame liberty as the Elders of <hi>Iſrael</hi> did to the Daughters of <hi>Zelophehad,</hi> who might marry to whom they pleaſed in their own Tribe. So Friends muſt uſe their godly endeavours, according to the ut<g ref="char:EOLhyphen"/>moſt of their Power, to ſtop the gap of ſuch proceedings that their Arm be not cut off as old <hi>Eli</hi>'s was. And you may ſee before the Flood, when the Sons of God married with the Daughters of Men, how it grieved God. And is it not all one when Friends marry with other People, and ſome Friends Children are ſurprized and hurt and ſpoiled, their Parents al<g ref="char:EOLhyphen"/>lowing them to go into the Finery and Faſhions of the World,
+<pb facs="tcp:192062:6" rendition="simple:additions"/>
+and to viſit and company with proud People, as <hi>Jacob</hi>'s Daugh<g ref="char:EOLhyphen"/>ter did with the Daughters of <hi>Canaan,</hi> by which opportunity ſhe was enſnared. So Friends are to prevent ſuch things to the utmoſt of their Power, and ſtop the breach that is made upon us by theſe things, that you may inherit <hi>Phinehas</hi>'s Por<g ref="char:EOLhyphen"/>tion, an everlaſting Prieſthood in Chriſt our High-Prieſt, and the Covenant of Peace in Chriſt Jeſus, in whom there is Peace, which is the deſire of your true Friend. <hi>W. E.</hi>
+                  </p>
+                  <q>
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <div type="paper">
+                              <head>The aforegoing Paper was read in the Men and Womens Meet<g ref="char:EOLhyphen"/>ings, being aſſembled together in a weighty Sence of Truth, and Friends having good <g ref="char:V">Ʋ</g>nity with it, have added thereto the fol<g ref="char:EOLhyphen"/>lowing Teſtimony.</head>
+                              <opener>
+                                 <salute>Dear Friends every where in this Nation, and elſewhere,</salute>
+                              </opener>
+                              <p>
+                                 <hi>WE being met together in the Name and Fear of the Lord, and his Preſence and Power being with us; it was repreſented by ſeveral Friends, and that under a weight and burden of Spirit, that of late great hurt hath happened among Friends, through ſeveral young People going to the Prieſt to be married, and taking Husbands and Wives among the World, which hath been ſometimes occaſioned through too much Indulgence of Parents towards their Children, and ſometimes through the ſtubbornneſs of Children towards their Parents, and not hearkning to their Counſel.</hi>
+                              </p>
+                              <p>Now Friends, <hi>the Lord having eſtabliſhed it as a Principle, that thoſe that profeſs his everlaſting Truth, ſhould neither go to a Prieſt to be married, nor take Husbands or Wives from among the World, that are not of us; it fell weighty upon Friends to conſider of ſome way according to the Truth, as much as in them lay, to endeavour to prevent ſuch Practi<g ref="char:EOLhyphen"/>ces for the future: And in order thereunto, after a ſerious de<g ref="char:EOLhyphen"/>bate and ſeveral weighty Teſtimonies in that caſe (both of</hi>
+                                 <pb n="7" facs="tcp:192062:6"/>
+                                 <hi>Men and Women) Friends concluded on the following Ad<g ref="char:EOLhyphen"/>viſe and Counſel; deſiring that Friends in their reſpective pla<g ref="char:EOLhyphen"/>ces and ſtations will in diligence put it in practice.</hi>
+                              </p>
+                              <p>
+                                 <hi>Firſt,</hi> That all Parents, both Men and Women, take care to educate their Children in the awe and fear of the Lord, according to the Principles of the bleſſed Truth, taking care to reſtrain them from ſuch Company and Acquaintance that may allure them from the way of Truth, into the Vanity of the World; and likewiſe to reſtrain them in any other things that may have a tendency to draw their Minds from the fear of the Lord, and from the ſence of his bleſſed Truth: That ſo through the ſence of the Truth in themſelves, it may ſo ballance their natural Affections, that they may rightly ſee the ſtates and conditions of their Children, as to give that wholſome Advice and Counſel that may anſwer the Wit<g ref="char:EOLhyphen"/>neſs of God in them.</p>
+                              <p>
+                                 <hi>Secondly,</hi> If any Friends do perceive that their Children are under ſuch a Temptation, as to go to a Prieſt to be married, or to take one of the World to Husband or Wife; if they will not hear that counſel and advice, which in the fear of the Lord they give them; then let them inform Friends, that they may deal with them in the order of the Goſpel, that ſo, if poſſible, they may be preſer<g ref="char:EOLhyphen"/>ved out of the ſnare, or the greater weight of Judgment may be laid on them by their Parents in particular, and Friends in general.</p>
+                              <p>
+                                 <hi>Thirdly,</hi> If notwithſtanding the advice and counſel of Parents and Friends, any young People do fall into the aforementioned evils; we deſire and adviſe all Parents to keep very ſtrictly to the principle of Truth in themſelves, in their conduct towards their Children, which we believe will reſtrain them from paſſing by that act of great Diſobedience unto themſelves in particular, and the Lord and his Truth in general, until ſuch time that Friends, through their true Repentance receive them into <g ref="char:V">Ʋ</g>nity again: And further, we believe that it will beſt anſwer the Truth, for <gap reason="illegible" resp="#OXF" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>arents to withhold giving ſuch diſobedient Children any out<g ref="char:EOLhyphen"/>ward
+<pb n="8" facs="tcp:192062:7" rendition="simple:additions"/>
+Portion, until ſuch time they be reconciled to Truth and Friends as aforeſaid; for the withholding that may be inſtrumental to cauſe them to enter into a conſideration of their Diſobedience to the Lord and their Parents, from whence true Repentance may ſpring, and not only ſo, but it may be an occaſion to prevent others from falling into the ſame Snare, and may put a ſtop to ſome of the World in ſeeking after our Children on that account.</p>
+                              <p>
+                                 <hi>Fourthly,</hi> We do deſire that Friends in every place will have ſuch a watchful Eye over one another in the fear of the Lord, that if they ſee any Parents negligent in their duty, by too much in<g ref="char:EOLhyphen"/>dulging their Children in thoſe things that Truth doth not allow, that they admoniſh them of it in the Love of God, and Sence of Truth, that ſo things may be kept well amongſt us.</p>
+                              <p>
+                                 <hi>Fifthly,</hi> As in the weighty Sence of the bleſſed Truth we have given our advice and counſel in this particular. So in the ſame Sence we adviſe and counſel Friends in the general, that in all things they walk as becomes the Goſpel, taking heed that in no re<g ref="char:EOLhyphen"/>ſpect they give way to any liberty which the Truth doth not allow of; for that is ſo far from the true Chriſtian liberty that it hath a tendency to imbondage the Soul again, as the Apoſtle ſaid, <hi>Hold faſt the Liberty wherewith Chriſt hath made you Free, and be no more entangled with the Yoak of Bondage.</hi> And as the Lord hath ſet Limits and Bounds in his Truth, our preſer<g ref="char:EOLhyphen"/>vation doth conſiſt in keeping within the bounds of it; in which we may expect the Bleſſings and Mercies of the Lord to reſt upon us, and to be multiplied unto us and our Children, to the Praiſe of his Name for ever.</p>
+                              <closer>
+                                 <dateline>
+                                    <hi>Given forth at the National Men and Womens Meetings, Aſſembled together in</hi> Dublin <date>
+                                       <hi>the</hi> 10th <hi>day of the Third Month,</hi> 1680.</date>
+                                 </dateline>
+                              </closer>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </q>
+                  <closer>
+                     <signed>
+                        <hi>Signed in behalf of the ſaid Meetings, By</hi> Alexander Se<gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>.</signed>
+                  </closer>
+                  <trailer>THE END.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <p>
+                     <pb facs="tcp:192062:7" rendition="simple:additions"/>
+AN EPISTLE FOR <hi>True Love, Unity</hi> AND ORDER IN THE Church of Chriſt. Againſt the <hi>Spirit</hi> of <hi>Diſcord, Diſorder</hi> and <hi>Confuſion, &amp;c.</hi>
+                  </p>
+                  <p>Recommended to Friends in Truth, chiefly for the ſake of the Weak and Unſtable Minded, for Information and Encouragement in our <hi>Chriſtian <g ref="char:V">Ʋ</g>nity</hi> and <hi>Society,</hi> held in the Spirit of Chriſt, both in Faith and Practice.</p>
+                  <p>
+                     <hi>By Two Servants of the Church, according to our Meaſures, Anne Whitehead, Mary Elſon.</hi>
+                  </p>
+                  <p>
+                     <hi>But God hath tempered the Body together—that there ſhould be</hi> No SCHISME <hi>in the Body, but that the Members ſhould have the</hi> SAME CARE <hi>one for another,</hi> 1 Cor. 12.</p>
+                  <p>
+                     <hi>LONDON:</hi> Printed and Sold by <hi>Andrew Sowle</hi> at the Crooked-Billet in <hi>Holloway-Lane,</hi> near <hi>Shoreditch.</hi>
+                  </p>
+                  <gap reason="missing" extent="1+ pages">
+                     <desc>〈1… pages missing〉</desc>
+                  </gap>
+               </div>
+            </front>
+            <body>
+               <div type="letter">
+                  <p>
+                     <pb n="8" facs="tcp:192062:8" rendition="simple:additions"/>
+                     <gap reason="missing" extent="1+ pages">
+                        <desc>〈1… pages missing〉</desc>
+                     </gap> in their own Wills, adventuring the Eſtates of others without their knowledge or conſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt; <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hen they them<g ref="char:EOLhyphen"/>ſelves knows well enough <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> if th<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Adventures fail, their Security muſt fail <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> how many Wid<g ref="char:EOLhyphen"/>dows and Orphans, Old and <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> are there oppreſſed and wronged by theſe things<g ref="char:punc">▪</g> Doth not ſuch think and believe that the Want, Poverty, and Cry of theſe will bring down Vengean<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the Righteous God? or think they not, that God will viſ<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or theſe things for his pretious Truth and Names <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ke, and for the Cry of the Opreſſed? yea, aſſuredly he will plead their Cauſe, and will disburthen and clear his Truth and People of them, &amp; their unrighteous Deeds together.</p>
+                  <p>Is it not our duty, both Old and Young, to ſet our Affairs in ſuch a poſture, as that we may be out of danger that any Body ſhould ſuffer by us, while we in the mean time only aim at our own profit &amp; advantage. Oh, let the Truth here be judge, and then I know the Elder Friends will labour to quit themſelves in this matter, and ſo have power to put a ſtop and bridle to ſuch young Ones as takes this courſe, or elſe the peril and reproach of both will lie at their Door in a great meaſure. Oh! that a holy Zeal may increaſe in ma<g ref="char:EOLhyphen"/>ny Hearts for the removing of this great Evil, and let go the eager deſire of great profit; and every one to be content with his own, and ſerve the Lord and his Truth therewith according to his Ability. (and if he pleaſe, he will increaſe it) And take care of the youn<g ref="char:EOLhyphen"/>ger ſort, and become good Examples to them in this matter, that the ſtink of offences in this kind may be ſtopped, and the Truth of God may proſper and flow<g ref="char:EOLhyphen"/>riſh more and more, <hi>Amen.</hi>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <hi>Colcheſter</hi> 
+                        <date>
+                           <hi>the 29th of the 9th Mon.</hi> 1677.</date>
+                     </dateline>
+                     <signed>Geertruyd Derik Nieſen.</signed>
+                     <pb facs="tcp:192062:8"/>
+                  </closer>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
